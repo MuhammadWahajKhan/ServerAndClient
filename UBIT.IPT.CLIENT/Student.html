@@ -1,0 +1,136 @@
+<html>
+    <head>
+        <title></title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container-fluid">
+            <div class="col-md-12 text-center" style="background-color: cadetblue;">
+                <h1>MARKSHEET</h1>
+            </div>
+            
+        <div class="row">
+            <div class="col-md-4">
+                <span>Enter Name of Student: </span>
+                <input type="text" class="form-control" id="nameOfStudent" placeholder="Name of Student">
+            </div>
+            <div class="col-md-4">
+                <span>Min. Marks In Subject: </span>
+                <input type="text" class="form-control" id="minMarksSubject" readonly>
+            </div>
+            <div class="col-md-4">
+                <span>Min Marks: </span>
+                <input type="text" class="form-control" id="minMarks" readonly>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <span>Enter Number of Subjects: </span>
+                <input type="number" placeholder="Number of Subjects" class="form-control" id="noOfSubjects" min="1" onchange="UIPopulate()" onkeyup="UIPopulate()">
+            </div>
+            <div class="col-md-4">
+                <span>Max. Marks In Subject: </span>
+                <input type="text" class="form-control" id="maxMarksSubject" readonly>
+            </div>
+            <div class="col-md-4">
+                <span>Max Marks: </span>
+                <input type="text" class="form-control" id="maxMarks" readonly>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <button class="btn btn-primary" onclick="calculate()" style="margin-top: 1rem;">Calculate</button>
+            </div>
+            <div class="col-md-6">
+                <span>Percentage: </span>
+                <input type="text" class="form-control" id="percentage" readonly>
+            </div>
+            
+        </div>
+
+        <hr>
+        <div class="col-md-12">
+            <table class="tbl tbl-responsive" id="inputTable"></table>
+        </div>
+        <script>
+            function calculate(){
+                console.log('hello')
+
+                var subjectList = [];
+      var noOfSubjects = $("#noOfSubjects").val();
+
+      for (i = 0; i < noOfSubjects; i++) {
+        subjectName = $("#subjectName" + i).val();
+        subjectMarksObtained = $("#subjectMarksObtained" + i).val();
+
+        var subject = new Object();
+        subject.name = subjectName;
+        subject.obtainedMarks = subjectMarksObtained;
+
+        subjectList.push(subject);
+      }
+
+      var subjectStr = JSON.stringify(subjectList);
+      console.log(subjectStr);
+
+      $.ajax({
+          method: 'GET',
+          url: 'http://localhost:40238/Marksheet.asmx/SetMarks',
+          contentType: 'application/JSON',
+
+          data:{
+              request: subjectStr,
+          },
+
+          success: function (result){
+            var res = JSON.parse(result.d);
+          $("#minMarksSubject").val(res.minMarksSubject);
+          $("#minMarksSubject").val(res.minMarksSubject);
+          $("#minMarks").val(res.minMarks);
+          $("#maxMarks").val(res.maxMarks);
+          $("#percentage").val((res.percentage).toFixed(2)+"%");
+          }
+      })
+            }
+
+            function UIPopulate(){
+                var noOfSubjects = $('#noOfSubjects').val();
+
+                var h = '';
+                for(i = 0; i < noOfSubjects; i++){
+                    h+= '<tr>';
+                    
+                    h+= '<td>';
+                    h+= '<span>Subject ' + (i + 1) + ' -> </span>';
+                    h+= '</td>';
+
+                    h+= '<td>';
+                    h+= '<span>Name: </span>';
+                    h+= '</td>';
+
+                    h+= '<td>';
+                    h+= '<input type="text" class="form-control" id="subjectName' + i  + '" />';
+                    h+= '</td>';
+
+                    h+= '<td>';
+                    h+= '<span>Marks Obtained: </span>';
+                    h+= '</td>';
+
+                    h+= '<td>';
+                    h+= '<input type="number" min="0" max="100" class="form-control" id="subjectMarksObtained' + i  + '" />';
+                    h+= '</td>';
+
+                    h+= '</tr>'
+                }
+
+                $('#inputTable').html(h);
+            }
+        </script>
+
+
+        </div>
+    </body>
+</html>

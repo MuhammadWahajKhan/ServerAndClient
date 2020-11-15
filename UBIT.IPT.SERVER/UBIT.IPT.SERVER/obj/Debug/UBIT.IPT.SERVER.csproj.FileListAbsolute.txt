@@ -1,0 +1,70 @@
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\ApplicationInsights.config
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\csc.exe
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\vbc.exe
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\UBIT.IPT.SERVER.dll.config
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\UBIT.IPT.SERVER.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\UBIT.IPT.SERVER.pdb
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.Web.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Newtonsoft.Json.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.Web.xml
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Newtonsoft.Json.xml
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\obj\Debug\UBIT.IPT.SERVER.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\obj\Debug\UBIT.IPT.SERVER.dll
+C:\Users\Muhammad Wahaj Khan\Documents\Visual Studio 2015\Projects\UBIT.IPT.SERVER\UBIT.IPT.SERVER\obj\Debug\UBIT.IPT.SERVER.pdb
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\ApplicationInsights.config
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\csc.exe
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\System.Collections.Immutable.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\System.Reflection.Metadata.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\vbc.exe
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\VBCSCompiler.exe
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\roslyn\VBCSCompiler.exe.config
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\UBIT.IPT.SERVER.dll.config
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\UBIT.IPT.SERVER.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\UBIT.IPT.SERVER.pdb
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.DependencyCollector.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.Web.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.WindowsServer.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.ApplicationInsights.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Newtonsoft.Json.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.DependencyCollector.xml
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.Web.xml
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.AI.WindowsServer.xml
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.ApplicationInsights.xml
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\bin\Newtonsoft.Json.xml
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\obj\Debug\UBIT.IPT.SERVER.csprojResolveAssemblyReference.cache
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\obj\Debug\UBIT.IPT.SERVER.dll
+F:\Web\IPT_Assignments\UBIT.IPT.SERVER\UBIT.IPT.SERVER\obj\Debug\UBIT.IPT.SERVER.pdb
